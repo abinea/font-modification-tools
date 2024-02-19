@@ -1,0 +1,125 @@
+Windows 系统字体替换工具 v1.6.0.2
+操作开始时间：02/04/2024 21:49:29
+-----------------------------------------------------------------------------------
+正在等待父进程结束，如果十秒钟后还未结束，将会强行中止
+主进程已经退出
+正在结束资源管理器........成功
+正在强行终止所有非系统进程
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：wetype_server .......成功
+　　　　正在终止：xray .......成功
+　　　　正在终止：WeChatPlayer .......成功
+　　　　正在终止：msedgewebview2 .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：WeChatOCR .......成功
+　　　　正在终止：WeChat .......成功
+　　　　正在终止：Nahimic3 .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：OfficeClickToRun .......成功
+　　　　正在终止：NahimicSvc32 .......成功
+　　　　正在终止：msedgewebview2 .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：OneDrive .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：PresentationFontCache .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：StartMenuExperienceHost .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：MateBookService .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：LCD_Service .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：ShellExperienceHost .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：msedgewebview2 .......成功
+　　　　正在终止：wetype_update .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：SearchHost .......成功
+　　　　正在终止：WidgetService .......成功
+　　　　正在终止：SystemSettings .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：msedgewebview2 .......成功
+　　　　正在终止：TextInputHost .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：mmcrashpad_handler64 .......成功
+　　　　正在终止：NeatDM .......成功
+　　　　正在终止：Widgets .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：msedgewebview2 .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：msedgewebview2 .......成功
+　　　　正在终止：WeChatUtility .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：chrome .......成功
+　　　　正在终止：v2rayN .......成功
+终止非系统进程完成
+正在删除字体缓存........成功
+正在创建备份目录.....2024-02-04 21-49-29.......完成
+正在扫描系统字体.......成功
+正在添加任务........
+　　已添加替换任务：msyh.ttc
+　　已添加替换任务：msyhbd.ttc
+　　已添加替换任务：msyhl.ttc
+
+开始处理任务
+　　正在运行替换任务：msyh.ttc
+　　　　正在取得所有权...msyh.ttc成功
+　　　　正在备份原始字体......成功
+　　　　正在删除......
+　　　　正在取得所有权...msyh.ttc.bak成功
+　　　　　　正在删除已存在的临时文件：msyh.ttc.bak成功
+　　　　　　正在移动文件.......失败：The process cannot access the file because it is being used by another process.，跳过后续操作
+
+　　正在运行替换任务：msyhbd.ttc
+　　　　正在取得所有权...msyhbd.ttc成功
+　　　　正在备份原始字体......成功
+　　　　正在删除......
+　　　　正在取得所有权...msyhbd.ttc.bak成功
+　　　　　　正在删除已存在的临时文件：msyhbd.ttc.bak成功
+　　　　　　正在移动文件.......成功
+　　　　正在复制新文件......成功复制，文件已经成功替换！
+
+　　正在运行替换任务：msyhl.ttc
+　　　　正在取得所有权...msyhl.ttc成功
+　　　　正在备份原始字体......成功
+　　　　正在删除......
+　　　　正在取得所有权...msyhl.ttc.bak成功
+　　　　　　正在删除已存在的临时文件：msyhl.ttc.bak成功
+　　　　　　正在移动文件.......成功
+　　　　正在复制新文件......成功复制，文件已经成功替换！
+
+
+
+-----------------------------------------------------------------------------------
+任务操作完成，成功处理字体 2 个，失败 1 个。
+检测到错误。如果上次你曾经做过替换操作，并且并未重启系统，请重启系统后再试。
