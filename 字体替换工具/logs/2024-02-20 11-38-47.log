@@ -1,0 +1,128 @@
+Windows 系统字体替换工具 v1.6.0.2
+操作开始时间：02/20/2024 11:38:46
+-----------------------------------------------------------------------------------
+正在等待父进程结束，如果十秒钟后还未结束，将会强行中止
+主进程已经退出
+正在结束资源管理器........成功
+正在强行终止所有非系统进程
+　　　　正在终止：Dock_64 .......成功
+　　　　正在终止：DSATray .......成功
+　　　　正在终止：mt64agnt .......成功
+　　　　正在终止：DSAService .......成功
+　　　　正在终止：MSI.True Color .......成功
+　　　　正在终止：StartMenuExperienceHost .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：Dockmod .......成功
+　　　　正在终止：ArcControl .......成功
+　　　　正在终止：MoUsoCoreWorker .......成功
+　　　　正在终止：steamwebhelper .......成功
+　　　　正在终止：WmiPrvSE .......成功
+　　　　正在终止：xray .......成功
+　　　　正在终止：wslhost .......成功
+　　　　正在终止：NeatDM .......成功
+　　　　正在终止：steamwebhelper .......成功
+　　　　正在终止：WeChatUtility .......成功
+　　　　正在终止：TiWorker .......成功
+　　　　正在终止：MateBookService .......成功
+　　　　正在终止：SearchHost .......成功
+　　　　正在终止：Listary .......成功
+　　　　正在终止：Listary.Service .......成功
+　　　　正在终止：IGCC .......成功
+　　　　正在终止：TrustedInstaller .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：IGCCTray .......成功
+　　　　正在终止：wslhost .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：WeChatPlayer .......成功
+　　　　正在终止：CC_Engine_x64 .......成功
+　　　　正在终止：WmiPrvSE .......成功
+　　　　正在终止：steamservice .......成功
+　　　　正在终止：Dockmod64 .......成功
+　　　　正在终止：ListaryHookHost32 .......成功
+　　　　正在终止：steam .......成功
+　　　　正在终止：MSI.TerminalServer .......成功
+　　　　正在终止：steamwebhelper .......成功
+　　　　正在终止：LEDKeeper2 .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：mmcrashpad_handler64 .......成功
+　　　　正在终止：DCv2 .......成功
+　　　　正在终止：HPPrintScanDoctorService .......成功
+　　　　正在终止：wslservice .......成功
+　　　　正在终止：MSI_Super_Charger_Service .......成功
+　　　　正在终止：PresentationFontCache .......成功
+　　　　正在终止：VoiceControl_Engine .......成功
+　　　　正在终止：LightKeeperService .......成功
+　　　　正在终止：msedge .......成功
+　　　　正在终止：steamwebhelper .......成功
+　　　　正在终止：TextInputHost .......成功
+　　　　正在终止：NahimicSvc32 .......成功
+　　　　正在终止：GoogleCrashHandler .......成功
+　　　　正在终止：Nahimic3 .......成功
+　　　　正在终止：SurSvc .......成功
+　　　　正在终止：DSAUpdateService .......成功
+　　　　正在终止：MSI_Case_Service .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：WeChatOCR .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：WeChat .......成功
+　　　　正在终止：GoogleCrashHandler64 .......成功
+　　　　正在终止：Mystic_Light_Service .......成功
+　　　　正在终止：MSI_LAN_Manager_Tool .......成功
+　　　　正在终止：VoiceControl_Service .......成功
+　　　　正在终止：Widgets .......成功
+　　　　正在终止：HiviewService .......成功
+　　　　正在终止：v2rayN .......成功
+　　　　正在终止：BasicService .......成功
+　　　　正在终止：MSI_Central_Service .......成功
+　　　　正在终止：esrv_svc .......成功
+　　　　正在终止：MacTray .......成功
+　　　　正在终止：MSI.CentralServer .......成功
+　　　　正在终止：Mydock .......成功
+　　　　正在终止：ListaryHookHost64 .......成功
+　　　　正在终止：LCD_Service .......成功
+　　　　正在终止：ArcControlService .......成功
+　　　　正在终止：StorageMonitor .......成功
+　　　　正在终止：WeChatAppEx .......成功
+　　　　正在终止：msedge .......成功
+终止非系统进程完成
+正在删除字体缓存........成功
+正在创建备份目录.....2024-02-20 11-38-46.......完成
+正在扫描系统字体.......成功
+正在添加任务........
+　　已添加替换任务：msyh.ttc
+　　已添加替换任务：msyhbd.ttc
+　　已添加替换任务：msyhl.ttc
+
+开始处理任务
+　　正在运行替换任务：msyh.ttc
+　　　　正在取得所有权...msyh.ttc成功
+　　　　正在备份原始字体......成功
+　　　　正在删除......
+　　　　正在取得所有权...msyh.ttc.bak成功
+　　　　　　正在删除已存在的临时文件：msyh.ttc.bak成功
+　　　　　　正在移动文件.......成功
+　　　　正在复制新文件......成功复制，文件已经成功替换！
+
+　　正在运行替换任务：msyhbd.ttc
+　　　　正在取得所有权...msyhbd.ttc成功
+　　　　正在备份原始字体......成功
+　　　　正在删除......
+　　　　正在取得所有权...msyhbd.ttc.bak成功
+　　　　　　正在删除已存在的临时文件：msyhbd.ttc.bak成功
+　　　　　　正在移动文件.......成功
+　　　　正在复制新文件......成功复制，文件已经成功替换！
+
+　　正在运行替换任务：msyhl.ttc
+　　　　正在取得所有权...msyhl.ttc成功
+　　　　正在备份原始字体......成功
+　　　　正在删除......
+　　　　正在取得所有权...msyhl.ttc.bak成功
+　　　　　　正在删除已存在的临时文件：msyhl.ttc.bak成功
+　　　　　　正在移动文件.......成功
+　　　　正在复制新文件......成功复制，文件已经成功替换！
+
+
+
+-----------------------------------------------------------------------------------
+任务操作完成，成功处理字体 3 个，失败 0 个。
